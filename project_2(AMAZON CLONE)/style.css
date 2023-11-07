@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+ul{
+    
+}
+.navbar{
+    background-color: black;
+    height: 60px;
+}
+li{
+    margin-top: 10px;
+    margin-right: 200px;
+    display: inline;
+    float: left;
+}
+#logo{
+    font-size: 25px;
+    color:#f08804;
+}
+a{
+    text-decoration: none;
+}
+button{
+    width:70px;
+    height: 25px;
+    background-color: #f08804;
+}
+.box{
+    /* border: 2px solid red; */
+    width:250px;
+    float: left;
+    margin-left: 400px;
+}

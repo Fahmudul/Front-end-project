@@ -1,0 +1,35 @@
+*{  
+    margin:0;
+    color: rgb(255, 255, 255);
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+a{
+    text-decoration: none;
+}
+li{
+    position: relative;
+    top: -20px;
+    list-style: none;
+    /* align-self: flex-start; */
+}
+
+.navbar{
+    background-color: black;
+    height: 60px;
+}
+div{
+    background-color: black;
+}
+div.amazon {
+    display: flex;
+}
+h3{
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+}
